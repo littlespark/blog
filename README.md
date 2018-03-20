@@ -1,3 +1,6 @@
+
+[Linux裸机安装配置ELK+Kafka,并实现多设备PHP,nginx access_log收集](https://github.com/littlespark/blog/issues/19)
+
 [Docker安装与配置(另一种方式)](https://github.com/littlespark/blog/issues/18)
 
 [创建阿里云消息服务composer包](https://github.com/littlespark/blog/issues/17)
